@@ -362,4 +362,8 @@ dmypy.json
 .history
 .ionide
 
+# No data file
+*.zip
+*.csv
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,python,jupyternotebooks
